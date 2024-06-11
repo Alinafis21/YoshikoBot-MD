@@ -13,38 +13,38 @@ global.confirmCode = ""
 
 //• ↳𝑷𝑶𝑵 𝑳𝑶𝑺 𝑵𝑼𝑴𝑬𝑹𝑶𝑺 𝑸𝑼𝑬 𝑸𝑼𝑰𝑬𝑹𝑨𝑺
 global.owner = [
-['573012482597', '👑 Cʀᴇᴀᴅᴏʀ 🪐', true],
-['51935499065', 'Oᴡɴᴇʀ 👑', true],
-['573218138672'],
-['51944167935'],
-['5214434703586'],
-['5492266613038'],
-['593968263524'],
-['595983799436']]
+['212681951915', 'ALI NAFIS', true],
+['212681951915', 'ALI NAFIS', true],
+['212681951915'],
+['212681951915'],
+['212681951915'],
+['212681951915'],
+['212681951915'],
+['212681951915']]
 
 //• ↳𝑨𝑮𝑹𝑬𝑮𝑨𝑻𝑬 𝑺𝑰 𝑬𝑹𝑬𝑺 𝑶𝑾𝑵𝑬𝑹
 global.contactos = [
-["573218138672", '𝗢𝗳𝗰 𝗗𝗶𝗲𝗴𝗼 👑', 1],
-["5214434703586", '𝗢𝗳𝗰 𝗢𝘄𝗻𝗲𝗿 💖', 1],
-["447700168473", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 🐈', 1],
-["51935499065", '𝗢𝗳𝗰 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 💻', 1],
-["51944167935", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 🌺', 1]]
+["212681951915", '𝗢𝗳𝗰 𝗗𝗶𝗲𝗴𝗼 👑', 1],
+["212681951915", '𝗢𝗳𝗰 𝗢𝘄𝗻𝗲𝗿 💖', 1],
+["212681951915", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 🐈', 1],
+["212681951915", '𝗢𝗳𝗰 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 💻', 1],
+["212681951915", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 🌺', 1]]
 
-global.suittag = ['573012482597']
+global.suittag = ['212681951915']
 global.prems = []
 global.mods = []
 
 global.lenguajeYL = es //idioma de yoshiko
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 🍁
-global.packname = '𝗬𝗼𝘀𝗵𝗶𝗸𝗼 𝗕𝗼𝘁 - 𝗠𝗗 🌸';
-global.author = 'Dɪᴇɢᴏ 🍂';
-global.wm = '᭥𐨏𝒀𝒐𝒔𝒉𝒊𝒌𝒐𝑩𝒐𝒕-𝑴𝑫᭢ꪲ';
-global.titulowm = '𝙔𝙤𝙨𝙝𝙞𝙠𝙤𝘽𝙤𝙩-𝙈𝘿 🍓';
-global.titulowm2 = `𝐃𝐢𝐞𝐠𝐨 𝐎𝐟𝐜`
-global.igfg = 'Diego Oficial';
-global.botname = 'Ⓨ︎ Yoshiko Bot - MD'
-global.team = '👑 Developed By • ✨ Ofc.Diego';
+global.packname = '𝙏𝙊𝙈𝙄 𝘽𝙊𝙏 - 𝙈𝘿 🐱';
+global.author = 'ALI NAFIS';
+global.wm = '𝙏𝙊𝙈𝙄 𝘽𝙊𝙏 - 𝙈𝘿 🐱';
+global.titulowm = '𝙏𝙊𝙈𝙄 𝘽𝙊𝙏 - 𝙈𝘿 🐱';
+global.titulowm2 = `ALI NAFIS`
+global.igfg = 'ALI NAFIS';
+global.botname = '𝙏𝙊𝙈𝙄 𝘽𝙊𝙏 - 𝙈𝘿 🐱'
+global.team = '👑 Developed By • ✨ ALI NAFI : 𝙏𝙊𝙈𝙄 𝘽𝙊𝙏 - 𝙈𝘿 🐱';
 global.vs = '2.0.0';
 
 //• ↳ ◜𝑴𝑺𝑮 𝑫𝑬 𝑬𝑺𝑷𝑬𝑹𝑨◞ • 🈸
@@ -64,18 +64,18 @@ global.imagen7 = fs.readFileSync('./Menu7.png');
 global.imagen8 = fs.readFileSync('./Que.jpg');
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp1 = 'https://chat.whatsapp.com/Em1J2VaglHc1fe26YtBDCS' //Grupo Oficial De Yoshiko1
-global.gp2 = 'https://chat.whatsapp.com/KNhfEDUTcyl5RuwR1Is4Hk' //Grupo Oficial Yoshiko2
-global.gp3 = 'https://chat.whatsapp.com/Ksd32KH9zFoDmO1PJt44M7' //GataBot Y YoshikoBot
-global.gp4 = 'https://chat.whatsapp.com/E6LJVwoT9hQ5sn0t3HgeiE' //Curiosity Y Yoshiko
-global.gp5 = 'https://chat.whatsapp.com/IstOAq2RnBx687WhQpOYK8' //Nova Y Yoshiko
-global.gp6 = 'https://chat.whatsapp.com/KjR8NTfdWwU1a66uDOOGLZ' //Multibots
-global.channel = 'https://whatsapp.com/channel/0029VaQD7LAJP216tu9liI2A' //Canal Oficial
-global.channel2 = 'https://whatsapp.com/channel/0029VaXaCa66xCSHugaf773M' //canal segundario
-global.channel3 = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A'
-global.yt = 'https://www.youtube.com/@Yoshiko_team' //Canal De Youtube
-global.md = 'https://github.com/Diego-YL-177/YoshikoBot-MD' //Github Oficial
-global.fb = 'https://www.facebook.com/diegosaroficial?mibextid=ZbWKwL' //Facebook Del Propietario
+global.gp1 = 'https://chat.whatsapp.com/G2i7LNcN9z2GHttX2pFfV4' //Grupo Oficial De Yoshiko1
+global.gp2 = 'https://chat.whatsapp.com/G2i7LNcN9z2GHttX2pFfV4' //Grupo Oficial Yoshiko2
+global.gp3 = 'https://chat.whatsapp.com/G2i7LNcN9z2GHttX2pFfV4' //GataBot Y YoshikoBot
+global.gp4 = 'https://chat.whatsapp.com/G2i7LNcN9z2GHttX2pFfV4' //Curiosity Y Yoshiko
+global.gp5 = 'https://chat.whatsapp.com/G2i7LNcN9z2GHttX2pFfV4' //Nova Y Yoshiko
+global.gp6 = 'https://chat.whatsapp.com/G2i7LNcN9z2GHttX2pFfV4' //Multibots
+global.channel = 'https://chat.whatsapp.com/G2i7LNcN9z2GHttX2pFfV4' //Canal Oficial
+global.channel2 = 'https://chat.whatsapp.com/G2i7LNcN9z2GHttX2pFfV4' //canal segundario
+global.channel3 = 'https://chat.whatsapp.com/G2i7LNcN9z2GHttX2pFfV4'
+global.yt = 'https://www.youtube.com/@aliyt2998' //Canal De Youtube
+global.md = 'https://github.com/Alinafis21' //Github Oficial
+global.fb = 'ww.facebook.com/' //Facebook Del Propietario
 
 //• ↳ ◜𝑻𝑰𝑬𝑴𝑷𝑶◞ • 🕒
 global.d = new Date(new Date + 3600000);
@@ -86,11 +86,11 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nYoshiko`;
-global.gt = 'Yoshiko';
-global.yoshiko = 'Yoshiko';
-global.yoshiko = 'https://github.com/Diego-YL-177/YoshikoBot-MD';
-global.nomorown = '573012482597';
+global.wm2 = `${dia} ${fecha}\nTomi`;
+global.gt = 'Tomi';
+global.yoshiko = 'Tomi';
+global.yoshiko = 'https://github.com/Alinafis21';
+global.nomorown = '212681951915';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
